@@ -1,4 +1,6 @@
 # hibernate-test4  
+ppt132  
+  
 HQL:  
 1. 创建 Query 对象  
 a.基于命名参数.   
